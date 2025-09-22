@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Mon Sep 22 10:17:14 2025 as: /usr/lib/nmap/nmap -sV -oA mysc REDACTED_IP/24
+Nmap scan report for REDACTED_IP
+Host is up (0.0000040s latency).
+All 1000 scanned ports on REDACTED_IP are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Sep 22 10:17:39 2025 -- 256 IP addresses (1 host up) scanned in 24.67 seconds
